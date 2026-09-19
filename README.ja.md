@@ -2,7 +2,7 @@
 
 <img src="./public/logo/icon.webp" width="88" height="88" alt="Shirone ロゴ" />
 
-# Shirone
+# Shirone for CyaniAgent
 
 **Material 3 Expressive を基盤とした、表現豊かなアニメ風ブログテーマ。**
 

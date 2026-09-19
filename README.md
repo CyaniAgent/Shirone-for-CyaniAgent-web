@@ -2,7 +2,7 @@
 
 <img src="./public/logo/icon.webp" width="88" height="88" alt="Shirone logo" />
 
-# Shirone
+# Shirone for CyaniAgent
 
 **An expressive, anime-inspired blog theme built on Material 3 Expressive.**
 

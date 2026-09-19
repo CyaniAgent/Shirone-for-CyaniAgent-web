@@ -2,7 +2,7 @@
 
 <img src="./public/logo/icon.webp" width="88" height="88" alt="Shirone 图标" />
 
-# Shirone
+# Shirone for CyaniAgent
 
 **一个基于 Material 3 Expressive、富有表现力的二次元博客主题。**
 
