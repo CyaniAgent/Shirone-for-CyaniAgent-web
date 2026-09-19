@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>CyaniAgent</title>
+  <subtitle>More than just a technology community</subtitle>
+  <link href="https://cyaniagent.com/" rel="alternate" type="text/html"/>
+  <link href="https://cyaniagent.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://cyaniagent.com/</id>
+  <updated>2026-08-31T00:00:00.000Z</updated>
+  <entry>
+    <title>Welcome to CyaniAgent!</title>
+    <link href="https://cyaniagent.com/posts/asagity-info/asagity-info/" rel="alternate" type="text/html"/>
+    <id>https://cyaniagent.com/posts/asagity-info/asagity-info/</id>
+    <published>2026-08-31T00:00:00.000Z</published>
+    <updated>2026-08-31T00:00:00.000Z</updated>
+    <summary>Here is an introduction to CyaniAgent.</summary>
+    <content type="html"><![CDATA[<h1>What is Asagity?</h1>
+<p>emm...</p>
+]]></content>
+    <author><name>CyaniAgent</name></author>
+    <category term="Our Projects"/>
+  </entry>
+  <entry>
+    <title>Welcome to CyaniAgent!</title>
+    <link href="https://cyaniagent.com/posts/welcome-to-cyaniagent/" rel="alternate" type="text/html"/>
+    <id>https://cyaniagent.com/posts/welcome-to-cyaniagent/</id>
+    <published>2026-08-01T00:00:00.000Z</published>
+    <updated>2026-08-01T00:00:00.000Z</updated>
+    <summary>Here is an introduction to CyaniAgent.</summary>
+    <content type="html"><![CDATA[<p>&lt;div align="center"&gt;
+&lt;img src="https://github.com/CyaniAgent.png" width="120" alt="CyaniAgent Logo"&gt;
+&lt;h1&gt;CyaniAgent&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;✨ Connecting Aesthetics with Underlying Technology ✨&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+Connect · Create · Collaborate
+&lt;/p&gt;</p>
+<p>&lt;!-- Badges --&gt;
+&lt;p&gt;
+&lt;a href="https://github.com/CyaniAgent"&gt;
+&lt;img src="https://img.shields.io/github/followers/CyaniAgent?style=social" alt="Followers"&gt;
+&lt;/a&gt;
+&lt;img src="https://img.shields.io/badge/Origin-iMikufans-39C5BB" alt="Origin"&gt;
+&lt;img src="https://img.shields.io/badge/Status-Independent-blue" alt="Status"&gt;
+&lt;/p&gt;
+&lt;/div&gt;</p>
+<hr />
+<h2>🌏 About Us</h2>
+<p><strong>CyaniAgent</strong> is an open-source team dedicated to pursuing ultimate aesthetics and high-performance technology.</p>
+<p>Here is what defines us:</p>
+<ul>
+<li>🏛️ <strong>Our Heritage</strong>: CyaniAgent was <strong>originally the technical group within <a href="https://imikufans.com">iMikufans</a></strong>. While we have evolved into an <strong>independent</strong> open team, we maintain a close friendship and collaborative relationship with iMikufans to drive community growth together.</li>
+<li>🤝 <strong>Global Vision</strong>: We warmly welcome <strong>developers from all over the world</strong>! We are committed to building an <strong>international, open, inclusive, and collaborative space</strong>. Here, code has no borders, and creativity knows no bounds.</li>
+</ul>
+<h2>🛠️ Core Tech Stack</h2>
+<p>Our projects span across mobile, desktop, and system levels, primarily utilizing the following languages and technologies:</p>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mobile &amp; UI</strong></td>
+<td><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&amp;logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&amp;logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&amp;logoColor=white" alt="Kotlin" /></td>
+</tr>
+<tr>
+<td><strong>System &amp; Backend</strong></td>
+<td><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&amp;logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&amp;logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&amp;logoColor=white" alt="C++" /></td>
+</tr>
+</tbody>
+</table>
+<h2>💡 Ecosystem &amp; Inspiration</h2>
+<p>We are deeply influenced by the open-source philosophy. We pay tribute to and draw heavy inspiration from the core architecture and development patterns of:</p>
+<ul>
+<li>🪐 <strong><a href="https://misskey-hub.net">Misskey</a></strong>: Decentralized social protocol and architecture.</li>
+<li>💬 <strong><a href="https://flarum.org">Flarum</a></strong>: Modern, lightweight forum architecture.</li>
+</ul>
+<p>We strive to build superior clients and extension tools for these ecosystems.</p>
+<h2>🌟 Featured Projects</h2>
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>📱 <a href="https://github.com/CyaniAgent/CyaniTalk">CyaniTalk</a></strong></td>
+<td><strong>Unified Social Client</strong>&lt;br&gt;Seamlessly connects Misskey and Flarum, providing a modern social experience.</td>
+<td><code>Flutter</code> <code>Rust</code></td>
+</tr>
+</tbody>
+</table>
+<h2>📬 Contact &amp; Join Us</h2>
+<p>If you are interested in our projects or want to build this open space with us, feel free to reach out:</p>
+<p>&lt;div align="center"&gt;</p>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Link / ID</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt;img src="https://img.shields.io/badge/Discord-Server-purple?logo=discord&amp;logoColor=white" alt="Discord"&gt;</td>
+<td><a href="https://discord.com/invite/RaVxb7RDep">Discord Link</a></td>
+<td>Official Discord Server</td>
+</tr>
+<tr>
+<td>&lt;img src="https://img.shields.io/badge/QQ-Group-brightgreen?logo=tencent-qq&amp;logoColor=white" alt="QQ"&gt;</td>
+<td><strong>1026404842</strong></td>
+<td>Developer Group (CN)</td>
+</tr>
+<tr>
+<td>&lt;img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&amp;logoColor=white" alt="Misskey"&gt;</td>
+<td><a href="https://hub.imikufans.com"><strong>hub.imikufans.com</strong></a></td>
+<td>Official Misskey Instance</td>
+</tr>
+<tr>
+<td>&lt;img src="https://img.shields.io/badge/Flarum-Forum-E76F51?logo=flarum&amp;logoColor=white" alt="Flarum"&gt;</td>
+<td><a href="https://flarum.imikufans.cn"><strong>flarum.imikufans.cn</strong></a></td>
+<td>Community Forum</td>
+</tr>
+</tbody>
+</table>
+<p>&lt;/div&gt;</p>
+<hr />
+<p>&lt;div align="center"&gt;
+&lt;p&gt;Let's build the future together.&lt;/p&gt;
+&lt;p&gt;© 2026 CyaniAgent&lt;/p&gt;
+&lt;/div&gt;</p>
+]]></content>
+    <author><name>CyaniAgent</name></author>
+    <category term="About us"/>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+# CyaniAgent
+
+> More than just a technology community
+
+This is the llms.txt file for CyaniAgent. It provides a machine-readable directory of published articles and core pages for Large Language Models.
+
+## Core Pages
+- [Home](https://cyaniagent.com/): Main blog entrance and latest post stream.
+- [About](https://cyaniagent.com/about/): Author profile, technical stack, and background.
+- [Archive](https://cyaniagent.com/archive/): Chronological index of all published writings.
+
+## Articles
+- [Welcome to CyaniAgent!](https://cyaniagent.com/posts/asagity-info/asagity-info/): Here is an introduction to CyaniAgent.
+- [Welcome to CyaniAgent!](https://cyaniagent.com/posts/welcome-to-cyaniagent/): Here is an introduction to CyaniAgent.
+
+## Full Text Dump
+- [Full Text Archive](https://cyaniagent.com/llms-full.txt): Complete, concatenated Markdown content of all public articles for full-context ingestion.
