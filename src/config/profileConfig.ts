@@ -7,15 +7,15 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  */
 export const profileConfig: ProfileConfig = withUserConfig("profile", {
 	avatar: "assets/images/demo-avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Shirone",
-	bio: "The rain remembers what the sky forgot to say.",
+	name: "CyaniAgent",
+	bio: "More than just a technology community.",
 	links: [
 		{
-			name: "Twitter",
+			name: "X / Twitter",
 			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://x.com/",
 		},
 		{
 			name: "Steam",
@@ -23,9 +23,9 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 			url: "https://store.steampowered.com",
 		},
 		{
-			name: "GitHub",
+			name: "GitHub organization",
 			icon: "fa6-brands:github",
-			url: "https://github.com/LyraVoid/Shirone",
+			url: "https://github.com/CyaniAgent",
 		},
 	],
 });
