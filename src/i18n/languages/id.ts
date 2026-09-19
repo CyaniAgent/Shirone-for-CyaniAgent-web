@@ -77,7 +77,7 @@ export const id: Translation = {
 	[Key.projectTechnologies]: "Teknologi",
 	[Key.projectsNoResults]: "Tidak ada proyek dalam kategori ini",
 
-	[Key.devices]: "Perangkat Saya",
+	[Key.devices]: "Perangkat Anggota",
 	[Key.devicesBanner]:
 		"Peralatan, gawai, dan alat yang menunjang alur kerja harian saya.",
 	[Key.devicesCounts]: "perangkat",

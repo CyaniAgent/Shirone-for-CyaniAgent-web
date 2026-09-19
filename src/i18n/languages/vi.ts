@@ -77,7 +77,7 @@ export const vi: Translation = {
 	[Key.projectTechnologies]: "Công nghệ",
 	[Key.projectsNoResults]: "Không có dự án nào trong danh mục này",
 
-	[Key.devices]: "Thiết bị của tôi",
+	[Key.devices]: "Thiết bị của các thành viên",
 	[Key.devicesBanner]:
 		"Phần cứng, tiện ích và công cụ phục vụ công việc hằng ngày của tôi.",
 	[Key.devicesCounts]: "thiết bị",

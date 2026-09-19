@@ -71,7 +71,7 @@ export const zh_CN: Translation = {
 	[Key.projectTechnologies]: "技术栈",
 	[Key.projectsNoResults]: "没有符合该分类的项目",
 
-	[Key.devices]: "我的设备",
+	[Key.devices]: "成员设备",
 	[Key.devicesBanner]: "日常使用的数码装备、工作台与生产力工具。",
 	[Key.devicesCounts]: "款设备",
 	[Key.devicesNoResults]: "没有找到匹配的设备",

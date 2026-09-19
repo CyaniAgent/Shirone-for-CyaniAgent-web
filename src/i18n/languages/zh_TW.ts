@@ -71,7 +71,7 @@ export const zh_TW: Translation = {
 	[Key.projectTechnologies]: "技術棧",
 	[Key.projectsNoResults]: "沒有符合此分類的專案",
 
-	[Key.devices]: "我的設備",
+	[Key.devices]: "成員設備",
 	[Key.devicesBanner]: "日常使用的數位裝備、工作台與生產力工具。",
 	[Key.devicesCounts]: "款設備",
 	[Key.devicesNoResults]: "沒有找到相符的設備",

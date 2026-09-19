@@ -75,7 +75,7 @@ export const ko: Translation = {
 	[Key.projectTechnologies]: "기술",
 	[Key.projectsNoResults]: "이 카테고리에 해당하는 프로젝트가 없습니다",
 
-	[Key.devices]: "내 기기",
+	[Key.devices]: "멤버 기기",
 	[Key.devicesBanner]:
 		"일상과 업무에서 사용하는 다양한 디지털 기기와 장비입니다.",
 	[Key.devicesCounts]: "개의 기기",

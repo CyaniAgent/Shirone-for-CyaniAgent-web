@@ -76,7 +76,7 @@ export const es: Translation = {
 	[Key.projectTechnologies]: "Tecnologías",
 	[Key.projectsNoResults]: "Ningún proyecto coincide con esta categoría",
 
-	[Key.devices]: "Mis Dispositivos",
+	[Key.devices]: "Dispositivos de los miembros",
 	[Key.devicesBanner]:
 		"Hardware, dispositivos y herramientas que impulsan mi flujo de trabajo diario.",
 	[Key.devicesCounts]: "dispositivos",

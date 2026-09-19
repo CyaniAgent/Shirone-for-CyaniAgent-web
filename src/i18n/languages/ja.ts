@@ -76,7 +76,7 @@ export const ja: Translation = {
 	[Key.projectTechnologies]: "使用技術",
 	[Key.projectsNoResults]: "このカテゴリに一致するプロジェクトはありません",
 
-	[Key.devices]: "デバイス",
+	[Key.devices]: "メンバーのデバイス",
 	[Key.devicesBanner]: "日常的に使用しているデバイス・作業環境・愛用品。",
 	[Key.devicesCounts]: "件のデバイス",
 	[Key.devicesNoResults]: "一致するデバイスが見つかりません",

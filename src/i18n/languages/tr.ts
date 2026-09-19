@@ -76,7 +76,7 @@ export const tr: Translation = {
 	[Key.projectTechnologies]: "Teknolojiler",
 	[Key.projectsNoResults]: "Bu kategoriyle eşleşen proje yok",
 
-	[Key.devices]: "Cihazlarım",
+	[Key.devices]: "Üyelerin Cihazları",
 	[Key.devicesBanner]:
 		"Günlük iş akışımı güçlendiren donanım, aletler ve cihazlar.",
 	[Key.devicesCounts]: "cihaz",

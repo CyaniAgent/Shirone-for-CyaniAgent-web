@@ -71,7 +71,7 @@ export const th: Translation = {
 	[Key.projectTechnologies]: "เทคโนโลยี",
 	[Key.projectsNoResults]: "ไม่พบโปรเจกต์ในหมวดหมู่นี้",
 
-	[Key.devices]: "อุปกรณ์ของฉัน",
+	[Key.devices]: "อุปกรณ์ของสมาชิก",
 	[Key.devicesBanner]: "ฮาร์ดแวร์ อุปกรณ์ และเครื่องมือที่ใช้ในการทำงานประจำวัน",
 	[Key.devicesCounts]: "รายการ",
 	[Key.devicesNoResults]: "ไม่พบอุปกรณ์ที่ตรงกับตัวกรอง",
