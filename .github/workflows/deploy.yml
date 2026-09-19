@@ -7,6 +7,10 @@ on:
     types: [content-updated] # 响应内容仓库发送的派发事件
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
