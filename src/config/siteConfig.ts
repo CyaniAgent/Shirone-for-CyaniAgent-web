@@ -72,11 +72,12 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 			enable: true,
 			title: "CyaniAgent",
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"Welcome to CyaniAgent.",
+				"欢迎来到 CyaniAgent。",
+				"CyaniAgent へようこそ。",
+				"Openness, Freedom, Contribution",
+				"开放、自由、贡献",
+				"オープン、自由、貢献",
 			],
 			typewriter: {
 				// 副标题逐字显示；关闭后直接显示完整副标题。
