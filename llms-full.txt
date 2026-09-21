@@ -4,16 +4,28 @@
 
 ---
 
-## Welcome to CyaniAgent!
+## Introduction Asagity
 
 - **URL**: https://cyaniagent.com/posts/asagity-info/asagity-info/
 - **Published**: 2026-08-31
 - **Category**: Our Projects
-- **Tags**: CyaniAgent, About Us
-- **Description**: Here is an introduction to CyaniAgent.
+- **Tags**: Asagity, Projects
+- **Description**: A modern, anime-inspired, decentralized federated social platform.
 
 # What is Asagity?
-emm...
+**Asagity** is a modern, anime-inspired, decentralized federated social platform developed by **CyaniAgent**. 
+It's not just another microblogging instance; it's a digital utopia that combines real-time social networking with a powerful multi-backend cloud drive. 
+
+Built on the self-developed **Verse for Asagity** backend engine, leveraging the Verse primary protocol with ActivityPub compatibility, Asagity allows you to seamlessly interact with users across the entire Fediverse (Mastodon, Misskey, Pleroma, etc.), all while enjoying a highly customizable tab-based experience.
+
+# Key Features
+
+- **Native Federation**: Built on the self-developed Verse for Asagity backend engine, leveraging the Verse primary protocol with ActivityPub compatibility. Connect, reply, and resonate with the entire Fediverse.
+- **Skyline Drive**: A built-in, powerful cloud drive system. Supports local storage, S3-compatible object storage, and remote WebDAV mounting. Features chunked uploads and a native file manager UI.
+- **Topics System**: Community-driven topic discovery with activity tracking, trending analysis, and real-time post integration.
+- **Highly Customizable UI**: Breaking the traditional three-column layout. Asagity adopts an advanced tab mechanism with on-open loading, on-close release, and minimized-page preloading, delivering an OS-level page experience.
+- **Rich Toy-like Widgets**: Built-in mini music player with lyrics sync, custom dynamic emojis, typing effects, and weather-based online status.
+- **Blazing Fast**: Powered by Go + ASP.NET Core for massive concurrent federation broadcasting, and React 19 for instant client-side delivery.
 
 ---
 

@@ -7,14 +7,25 @@
   <id>https://cyaniagent.com/</id>
   <updated>2026-08-31T00:00:00.000Z</updated>
   <entry>
-    <title>Welcome to CyaniAgent!</title>
+    <title>Introduction Asagity</title>
     <link href="https://cyaniagent.com/posts/asagity-info/asagity-info/" rel="alternate" type="text/html"/>
     <id>https://cyaniagent.com/posts/asagity-info/asagity-info/</id>
     <published>2026-08-31T00:00:00.000Z</published>
     <updated>2026-08-31T00:00:00.000Z</updated>
-    <summary>Here is an introduction to CyaniAgent.</summary>
+    <summary>A modern, anime-inspired, decentralized federated social platform.</summary>
     <content type="html"><![CDATA[<h1>What is Asagity?</h1>
-<p>emm...</p>
+<p><strong>Asagity</strong> is a modern, anime-inspired, decentralized federated social platform developed by <strong>CyaniAgent</strong>.
+It's not just another microblogging instance; it's a digital utopia that combines real-time social networking with a powerful multi-backend cloud drive.</p>
+<p>Built on the self-developed <strong>Verse for Asagity</strong> backend engine, leveraging the Verse primary protocol with ActivityPub compatibility, Asagity allows you to seamlessly interact with users across the entire Fediverse (Mastodon, Misskey, Pleroma, etc.), all while enjoying a highly customizable tab-based experience.</p>
+<h1>Key Features</h1>
+<ul>
+<li><strong>Native Federation</strong>: Built on the self-developed Verse for Asagity backend engine, leveraging the Verse primary protocol with ActivityPub compatibility. Connect, reply, and resonate with the entire Fediverse.</li>
+<li><strong>Skyline Drive</strong>: A built-in, powerful cloud drive system. Supports local storage, S3-compatible object storage, and remote WebDAV mounting. Features chunked uploads and a native file manager UI.</li>
+<li><strong>Topics System</strong>: Community-driven topic discovery with activity tracking, trending analysis, and real-time post integration.</li>
+<li><strong>Highly Customizable UI</strong>: Breaking the traditional three-column layout. Asagity adopts an advanced tab mechanism with on-open loading, on-close release, and minimized-page preloading, delivering an OS-level page experience.</li>
+<li><strong>Rich Toy-like Widgets</strong>: Built-in mini music player with lyrics sync, custom dynamic emojis, typing effects, and weather-based online status.</li>
+<li><strong>Blazing Fast</strong>: Powered by Go + ASP.NET Core for massive concurrent federation broadcasting, and React 19 for instant client-side delivery.</li>
+</ul>
 ]]></content>
     <author><name>CyaniAgent</name></author>
     <category term="Our Projects"/>

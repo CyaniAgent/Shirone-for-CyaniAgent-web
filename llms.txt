@@ -10,7 +10,7 @@ This is the llms.txt file for CyaniAgent. It provides a machine-readable directo
 - [Archive](https://cyaniagent.com/archive/): Chronological index of all published writings.
 
 ## Articles
-- [Welcome to CyaniAgent!](https://cyaniagent.com/posts/asagity-info/asagity-info/): Here is an introduction to CyaniAgent.
+- [Introduction Asagity](https://cyaniagent.com/posts/asagity-info/asagity-info/): A modern, anime-inspired, decentralized federated social platform.
 - [Welcome to CyaniAgent!](https://cyaniagent.com/posts/welcome-to-cyaniagent/): Here is an introduction to CyaniAgent.
 
 ## Full Text Dump
