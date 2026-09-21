@@ -20,8 +20,8 @@ const isShironesPackage = packageMetadata.name === "shirones";
 const poweredBy = [
 	{ label: "Astro", href: "https://astro.build", external: true },
 	{
-		label: "Shirone",
-		href: "https://github.com/LyraVoid/Shirone",
+		label: "Shirone for CyaniAgent",
+		href: "https://github.com/CyaniAgent/Shirone-for-CyaniAgent-web",
 		external: true,
 	},
 	...(isShironesPackage
@@ -63,6 +63,6 @@ if (footerConfig.enable) {
 	links={links}
 	poweredBy={poweredBy}
 	version={packageMetadata.version}
-	versionHref={isShironesPackage ? "https://www.npmjs.com/package/shirones" : "https://github.com/LyraVoid/Shirone"}
+	versionHref={isShironesPackage ? "https://www.npmjs.com/package/shirones" : "https://github.com/CyaniAgent/Shirone-for-CyaniAgent-web"}
 	customHtml={customFooterHtml}
 />
