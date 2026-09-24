@@ -1,0 +1,1 @@
+import{n as i}from"./config-overlay.DFNlwFwr.js";var a=i("music",{enable:!0,provider:"mixed",meting:{server:"netease",type:"playlist",preload:"metadata",id:"18364842621"},defaultVolume:.8,defaultMode:"shuffle"});function m(e,t=.7){return Number.isFinite(e)?Math.min(1,Math.max(0,e)):t}export{m as t};
