@@ -131,7 +131,7 @@ export const LinkPresets: Record<string, NavBarLink> = {
 	GitHub: {
 		name: "GitHub",
 		url: "https://github.com/CyaniAgent",
-		icon: "fa6-brands:github",
+		icon: "fa7-brands:github",
 		external: true,
 		pageKey: "github",
 	},
